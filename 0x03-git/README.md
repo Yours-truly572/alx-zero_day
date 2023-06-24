@@ -1,1 +1,1 @@
-My second README this day
+My second README
